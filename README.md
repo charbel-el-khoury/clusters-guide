@@ -1,3 +1,4 @@
-# ds-wsl.github.io
+# A short introduction to clusters (mainly hyperion)
 
-hi first line
+
+this guide aims at getting you up to speed on the basics of using hyperion.
