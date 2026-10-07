@@ -1,2 +1,19 @@
 site_name: A Simple Guide to Using Clusters
 
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# nav:
+#   - Home: index.md
+#   - Getting Started: getting_started.md
+
+theme: 
+  name: material
+  features:
+    - content.code.copy
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
